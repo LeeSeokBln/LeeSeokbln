@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/LeeSeokBln/LeeSeokbln/assets/101256150/41a16b4a-dbe0-4b58-b807-efe737d5e638" width="100">
+# Hi there <img src="https://github.com/LeeSeokBln/LeeSeokbln/assets/101256150/41a16b4a-dbe0-4b58-b807-efe737d5e638" width="60">
 
 ## My name is LeeSeokbin
 
