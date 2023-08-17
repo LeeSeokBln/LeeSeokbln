@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi there ![ditto-pokemon](https://github.com/LeeSeokBln/LeeSeokbln/assets/101256150/41a16b4a-dbe0-4b58-b807-efe737d5e638)
+
 ## My name is LeeSeokbin
 
 ### I am a high school student studying cloud to become a cloud engineer.<img src="https://github.com/LeeSeokBln/LeeSeokbln/assets/101256150/dbacbaa4-977e-4bf3-aca5-68770644b302" width="50">
