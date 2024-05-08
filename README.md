@@ -1,6 +1,5 @@
 # 안녕하세요! <img src="https://github.com/LeeSeokBln/LeeSeokbln/assets/101256150/41a16b4a-dbe0-4b58-b807-efe737d5e638" width="60">
 
-## 저는 이석빈입니다
 
 ### 글로벌탑넷에서 개발자/클라우드엔지니어로 근무중입니다. .<img src="https://github.com/LeeSeokBln/LeeSeokbln/assets/101256150/dbacbaa4-977e-4bf3-aca5-68770644b302" width="50">
 
