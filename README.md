@@ -19,7 +19,7 @@
 {
   "name": "이석빈 (Seokbin Lee)",
   "career": "Full-Stack Developer @ 글로벌탑넷",
-  "education": "대양고등학교 IT네트워크과 졸업 / 부경대학고 전기전자소프트웨어과 재학",
+  "education": "대양고등학교 IT네트워크과 졸업 / 부경대학교 전기전자소프트웨어과 재학",
   "major_projects": [
     {
       "name": "Camell Drive",
@@ -28,14 +28,14 @@
     },
     {
       "name": "Mediaccel",
-      "describe": "GPT API 기반 AI 건강 상담 및 자체 토큰(MDXL)을 이용한 서비스 기능 확장을 제공하는 헬스케어 앱입니다.",
+      "describe": "OPEN API 기반 AI 건강 상담 및 자체 토큰(MDXL)을 이용한 서비스 기능 확장을 제공하는 헬스케어 앱입니다.",
       "link": "https://mdxl.io"
     },
     {
-      "name": "QuickSet",
-      "describe": "AI 트레이너의 운동 루틴 추천 및 간편한 운동 기록 기능을 제공하는 피트니스 보조 앱입니다.",
+      "name": "Ayai",
+      "describe": "다양한 AI 서비스를 한 곳에 모아, 클릭 한 번으로 바로 쓰는 AI 허브입니다.",
       "link": ""
-    }
+    },
   ],
   "awards_and_honors": [
     "Silver Medalist in Cloud Computing at the Regional Skills Competition"
@@ -45,8 +45,8 @@
     "리눅스마스터 1급",
     "네트워크관리사 2급",
     "정보기기운용기능사",
-    "매경TEST",
-    "테셋"
+    "매경TEST 우수",
+    "테셋 1급"
   ]
 }
 ```
